@@ -1,7 +1,7 @@
 integration:
   apigee:
     enable-log: true
-    uri: https://arquiteturaadmin-hml.autopasscorp.com/gerar-oauth-token/v2
+    uri: https://arquiteturaadmin-hml.autopasscorp.com/gerar-oauth-token/v1
     grant-type: client_credentials
     client-id: LxjFtW8JBhgrq63LoTkf0k8NygN9FOsX
     client-secret: TGz0qjGAe7MgGDUb
